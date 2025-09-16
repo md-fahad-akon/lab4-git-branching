@@ -1,9 +1,19 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 3bb96fac57d09113c0b58deb5ae8d07786cdbadb
-  Commits: 3
+- hero-path
+  SHA: f76789cbecc77ed2693ab038605f9255bfd5fad7
+  Commits: 6
   Recent commits:
+    f76789c | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-09-16T14:25:40-04:00 | summerized the hero path in README.md
+    c1ebbcb | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-09-16T14:23:27-04:00 | Hero: make right path and won the duel
+    e18ae73 | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-09-16T14:21:49-04:00 | hero: add dragon-defeat outcome on left path
+    3bb96fa | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-09-16T14:14:59-04:00 | Added a center path.
+    0742117 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T17:50:34Z | Auto-update branch-info.txt
+- main
+  SHA: 912273fe182e4df5da15e5dcb1d0088b48a548aa
+  Commits: 4
+  Recent commits:
+    912273f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T18:27:26Z | Auto-update branch-info.txt
     3bb96fa | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-09-16T14:14:59-04:00 | Added a center path.
     0742117 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T17:50:34Z | Auto-update branch-info.txt
     e970cf3 | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T13:50:23-04:00 | Initial commit
