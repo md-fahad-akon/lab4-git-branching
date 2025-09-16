@@ -3,6 +3,8 @@ def intro():
     choice = input("Which direction do you choose? (left/right): ").strip().lower()
     if choice == "left":
         left_path()
+    elif choice == "center":
+        center_path()
     elif choice == "right":
         right_path()
     else:
@@ -10,6 +12,9 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
+
+def center_path():
+    print("You walk center and discover a hidden treasure chest filled with gold.")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
