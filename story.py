@@ -11,7 +11,12 @@ def intro():
         print("You stand still, unsure what to do. The forest swallows you.")
 
 def left_path():
-    print("You walk left and find a mysterious glowing sword stuck in a stone.")
+    print("You walk left and find runes warning of a forbidden shortcut.")
+    pick = input("Do you take the shortcut or turn back? (shortcut/back): ").strip().lower()
+    if pick == "shortcut":
+        print("Whispers promise power; you accept. The forest bows—but so do the shadows.")
+    else:
+        print("You step away, but the darkness follows your tracks.")
 
 def center_path():
     print("You walk center and discover a hidden treasure chest filled with gold.")
