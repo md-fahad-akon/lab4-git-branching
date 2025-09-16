@@ -18,6 +18,7 @@ def center_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You seize dark power and strike the squirrel down with full of cruelty.")
 
 if __name__ == "__main__":
     intro()
